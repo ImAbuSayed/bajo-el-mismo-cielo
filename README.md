@@ -1,4 +1,4 @@
-# Bajo el mismo cielo
+# Bajo el mismo cielo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Bajo el mismo cielo |
+| **Title** | Bajo el mismo cielo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-el-mismo-cielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bajo el mismo cielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-el-mismo-cielo/) |
+| **Get License** | [Get a Licensing Quote for Bajo el mismo cielo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-el-mismo-cielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la luna sabe lo que hicimos ayer
+> Ese vestido negro te queda a nivel
+> Tú tienes la magia que me hace enloquecer
+> Esta noche en Madrid nos volvemos a ver
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c674bdc3fdd916ba6157586d5946963aa5f4176b00b1eb88333c42b80ecf3f69` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

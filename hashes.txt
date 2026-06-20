@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo el mismo cielo, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Bajo el mismo cielo, Vol. 2** (bajo-el-mismo-cielo-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T20:48:24.183320 | `v1` | `c674bdc3fdd916ba6157586d5946963aa5f4176b00b1eb88333c42b80ecf3f69` | `ad96b0a05590b27ae77cd9d306d4fddd99d7ad503ecb98dd20786962c2b3b103` | `2026-06-20_bajo-el-mismo-cielo-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
